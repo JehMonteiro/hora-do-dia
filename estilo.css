@@ -1,0 +1,30 @@
+body{
+    background-color: cadetblue;
+    font: normal 15pt arial;
+    text-align: center;
+    padding: 20px;
+    margin: 20px,
+}
+
+header{
+    color: white;
+
+}
+
+section{
+    background: white;
+    padding: 50px;
+    width: 500px;
+    border-radius: 10px;
+    margin: auto;
+    
+
+}
+
+
+footer{
+    color: white;
+    font-style: italic;
+    font-size: 15px;
+    padding: 20px;
+}
