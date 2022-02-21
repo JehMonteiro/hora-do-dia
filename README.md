@@ -1,5 +1,5 @@
 # Hora do dia ☀️ ⛅️ 🌝
-A imagem e a cor do site muda conforme o período do dia!
+A imagem e a cor do site mudam conforme o período do dia!
 
 <b>Tecnologias utilizadas: <br>
 => HTML <br>
